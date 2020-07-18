@@ -1,0 +1,9 @@
+.git
+.cache
+
+.dockerignore
+.docker
+
+readme.md
+
+.github
